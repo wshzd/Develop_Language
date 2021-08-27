@@ -19,6 +19,10 @@ compile c file and will generate a.exe file
 ```
 gcc prog1.c
 ```
+or use -o parameter to rename file name
+```
+gcc prog1.c -o prog1
+```
 ## step3:
 run a.exe
 ```
